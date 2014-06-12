@@ -853,11 +853,12 @@ a.boxclose{
 	border-top: 0;
 	outline: none;
 	font-family: 'pt_sansregular';
-	padding: 1em 0;
+	padding: 3px 0;
 	font-size: 1em
 }
 .get-intouch-center-form input[type="text"]:focus,.get-intouch-center-form textarea:focus{
 	color:#E8432E;
+	border: 1px solid #CCCCCC !important;
 }
 .get-intouch-center-form textarea{
 	width: 100%;
