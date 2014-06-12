@@ -580,7 +580,7 @@ a.boxclose{
 	-webkit-transition:0.5s all;
 	-moz-transition:0.5s all;
 	-o-transition:0.5s all;
-} 
+}
 .blog-post-info-right li a:hover{
 	color:#000;
 }
@@ -606,7 +606,7 @@ a.boxclose{
 	font-size: 1.25em;
 }
 .item-right ul li{
-	
+
 }
 .item-right ul li:first-child{
 	float:left;
@@ -802,7 +802,7 @@ a.boxclose{
 	margin: 5em 0 0;
 }
 .get-intouch-grids{
-	
+
 }
 .get-intouch-left-address{
 	float:left;
@@ -958,9 +958,22 @@ a.boxclose{
 .map{
 	padding:1.5em 0 0;
 }
+
+.myinput{
+    width: 48.7% !important;
+    color: #B9B9B9;
+    outline: none !important;
+    font-family: 'pt_sansregular' !important;
+    padding: 1em 0 !important;
+    font-size: 1em !important;
+}
+
+.paddingtop {
+    padding-top: 100px !important;
+}
 /*----//End-get-intouch----*/
 /*
-* 	Owl Carousel Owl Demo Theme 
+* 	Owl Carousel Owl Demo Theme
 *	v1.24
 */
 /*----ptsans_bold_macroman----*/
@@ -1089,7 +1102,7 @@ a.boxclose{
 	min-height: 150px;
 	background: url(AjaxLoader.gif) no-repeat center center
 }
-/* 
+/*
  * 	Core Owl Carousel CSS File
  *	v1.24
  */
@@ -1127,7 +1140,7 @@ a.boxclose{
 	-o-transition: height 500ms ease-in-out;
 	transition: height 500ms ease-in-out;
 }
-	
+
 .owl-carousel .owl-item{
 	float: left;
 	margin-top: 2em;
@@ -1145,7 +1158,7 @@ a.boxclose{
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 /* mouse grab icon */
-.grabbing { 
+.grabbing {
     cursor:url(grabbing.png) 8 8, move;
 }
 
@@ -1212,7 +1225,7 @@ a.boxclose{
   animation: scaleUpTo .5s ease both;
 }
 /* Keyframes */
-/* 
+/*
  * 	//Core Owl Carousel CSS File
  *	v1.24
  */
@@ -1338,7 +1351,7 @@ a.boxclose{
 .gray-bg{
 	background:url(../images/bg-thumb3.jpg) no-repeat 0px 0px;
 }
-/* 
+/*
 	Required Styles
 */
 #aToolTip {
@@ -1352,20 +1365,20 @@ a.boxclose{
 		margin:0;
 		padding:0;
 	}
-/* 
+/*
 	tooltip
 */
 .defaultTheme {
 	background:#eee;
 	color:#000;
 	margin:0;
-	padding:6px 12px;	
+	padding:6px 12px;
 	-moz-border-radius: 12px 12px 12px 0;
 	-webkit-border-radius: 12px 12px 12px 0;
 	-khtml-border-radius: 12px 12px 12px 0;
 	border-radius: 12px 12px 12px 0;
 }
-/* 
+/*
 	//tooltip
 */
 #slideout {
@@ -1553,6 +1566,7 @@ a.boxclose{
 	.get-intouch-center-form input[type="text"] {
 		width: 48.5%;
 	}
+
 }
 @media only screen and (max-width:768px) and (min-width:640px){
 	.wrap {
